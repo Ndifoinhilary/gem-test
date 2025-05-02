@@ -231,8 +231,10 @@
       },
       {
         "component": "text",
-        "name": "title",
-        "label": "Title"
+        "valueType": "number",
+        "name": "columns",
+        "value": "",
+        "label": "Columns"
       },
       {
         "component": "select",
@@ -262,7 +264,9 @@
           {
             "name": "h6",
             "value": "h6"
-          },
+          }
+        ]
+      },
       {
         "component": "richtext",
         "name": "text",
