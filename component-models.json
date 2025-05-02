@@ -230,6 +230,11 @@
         "label": "Alt Text"
       },
       {
+        "component": "text",
+        "name": "title",
+        "label": "Title"
+      },
+      {
         "component": "select",
         "name": "titleType",
         "label": "Title Type",
@@ -257,9 +262,7 @@
           {
             "name": "h6",
             "value": "h6"
-          }
-        ]
-      },
+          },
       {
         "component": "richtext",
         "name": "text",
